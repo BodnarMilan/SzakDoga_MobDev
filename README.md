@@ -1,4 +1,4 @@
-# SzakDoga_MobDev
+# SzakDolgozat_Rajztábla
 
 Készítette: Bodnár Milán István
 
